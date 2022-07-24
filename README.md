@@ -1,4 +1,4 @@
-# GhostWev-IDE
+# GhostWeb-IDE
 
 
 send freedback bug
