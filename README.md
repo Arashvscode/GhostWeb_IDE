@@ -1,7 +1,7 @@
 # GhostWeb-IDE
 
 
-send freedback bug
+Report program bugs here, it will be checked
 
 
 اینجا میتونید باگ های خودتان رو از طریق Issues
