@@ -11,9 +11,7 @@ Report program bugs here, it will be checked
 
 # دریافت از
 
-<a href="https://myket.ir/app/Ninja.coder.Ghostemane.code?utm_source=search-ads-gift&utm_medium=cpc"><img width="250px" src="https://myket.ir/core/images/logo/get1-fa.png" /> </a>
-
-
+<a href="https://myket.ir/app/Ninja.coder.Ghostemane.code?utm_source=search-ads-gift&utm_medium=cpc"><img src="https://myket.ir/core/images/logo/get-en.png" /> </a>
 # 1.4.1
 
 اضافه شدن زبان جدید
