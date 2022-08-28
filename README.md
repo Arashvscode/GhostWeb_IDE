@@ -32,7 +32,7 @@ Report program bugs here, it will be checked
 ویژگی های جدید در دست ساخت است
 
 
-#1.4.3
+# 1.4.3
 
 دست رسی فایل اندروید 11 بهتر شد
 
