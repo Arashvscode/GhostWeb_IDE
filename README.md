@@ -1,4 +1,5 @@
 # GhostWeb-IDE
+<img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/GhostIcon_background.png" width="200" high="200"/>
 
 
 Report program bugs here, it will be checked
