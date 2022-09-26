@@ -1,6 +1,6 @@
 ### GhostWeb-IDE
 <p align="center">
-<a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/GhostIcon_background.png" width="200" high="200"/>
+<a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/GhostIcon_background.png" width="150" high="150"/>
 </a>
 </p>
 
@@ -13,8 +13,10 @@ Report program bugs here, it will be checked
 
 
 ## دریافت از
-
+<p align="center">
 <a href="https://myket.ir/app/Ninja.coder.Ghostemane.code?utm_source=search-ads-gift&utm_medium=cpc"><img src="https://myket.ir/core/images/logo/get-en.png" width="200"/> </a>
+</p>
+
 # 1.4.1
 
 - اضافه شدن زبان جدید
