@@ -1,7 +1,8 @@
 ### GhostWeb-IDE
-
+<p align="center">
 <a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/GhostIcon_background.png" width="200" high="200"/>
 </a>
+</p>
 
 Report program bugs here, it will be checked
 
