@@ -1,6 +1,6 @@
 ### GhostWeb-IDE
 <p align="center">
-<a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/GhostIcon_background.png" width="150" high="150"/>
+<a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/icon-512.png" width="150" high="150"/>
 </a>
 </p>
 
