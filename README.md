@@ -1,7 +1,12 @@
-### GhostWeb-IDE
+<p aling="center" style ="color : #ffaa86; font-size :2em ; font-weight :bold;"
+<font style ="color : #ffaa86; font-size :2em ; font-weight :bold;" >GhostWeb-IDE</font>
+</p>
 <p align="center">
 <a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/icon-512.png" width="150" high="150"/>
 </a>
+</p>
+<p align="center"
+	<a href="https://rubika.ir/joing/CAJJACHI0ESVNPOMVZABDPLZRNLZOGRO"  style="color: #ffbc94; font-weight: bold;"> ورود به گروه روبیکا</a>
 </p>
 
 Report program bugs here, it will be checked
@@ -25,7 +30,7 @@ Report program bugs here, it will be checked
 - اضافه شدن ترمینال shell
 - رفع باگ مولتی تب
 - و اضافه شدن چند ویژگی دیگر
-
+- منسوخ شد
 
 ## 1.4.2
 
@@ -35,7 +40,7 @@ Report program bugs here, it will be checked
 - تغییر اساسی گرافیک
 
 - ویژگی های جدید در دست ساخت است
-
+- منسوخ شد
 
 ## 1.4.3
 
@@ -55,7 +60,7 @@ Report program bugs here, it will be checked
 - اضافه شدن زبان php و بروز شدن برخی از زبان ها و رفع باگ تکمیل کننده خودکار متن
 - تحلیل کننده کد بهتر شد این بار با پروگس بار نمایش داده میشود
  با تشکر از محمد و امیر علی و بقیه دوستان در اپدیت این برنامه همواره به ما کمک میکنند 
-
+- منسوخ شد
 
 ## 1.4.4
 
@@ -71,7 +76,7 @@ Report program bugs here, it will be checked
 - موقعیت اسکرول ویو عمودی و افقی رو خاموش روشن کنید
 - برای اعمال تم جدید پوشه GhoatWeb Ide حتمان یک بار پاک کنید
 
-
+- منسوخ شد
 ## 1.4.5
 
 - حالت موبایل و لپ تاپ فعال شد
@@ -83,8 +88,7 @@ Report program bugs here, it will be checked
 - تمام اکتیوتی ها دارای فونت شدن
 - دریافت پس زمینه عکس از سیستم به جای پس زمینه رنگ
 - الگوریتیم جدید جستجو جایگزین و جایگزین کردن همه
-- رفع باگ وب ویو در اندروید های 8 به پایین 
-
+- اماده انتشار است
 ### Code Testi 
 
 ``` html
