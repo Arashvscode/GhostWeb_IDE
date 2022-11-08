@@ -2,11 +2,11 @@
 <font style ="color : #ffaa86; font-size :2em ; font-weight :bold;" >GhostWeb-IDE</font>
 </p>
 <p align="center">
-<a href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/icon-512.png" width="150" high="150"/>
-</a>
+<link href="https://rubika.ir/pro_Team_25"><img src="https://raw.githubusercontent.com/Arashvscode/GhostWeb_IDE/main/icon-512.png" width="150" high="150"/>
+</link>
 </p>
 <p align="center"
-	<a href="https://rubika.ir/joing/CAJJACHI0ESVNPOMVZABDPLZRNLZOGRO"  style="color: #ffbc94; font-weight: bold;"> ورود به گروه روبیکا</a>
+	<link href="https://rubika.ir/joing/CAJJACHI0ESVNPOMVZABDPLZRNLZOGRO" > ورود به گروه روبیکا</link>
 </p>
 
 Report program bugs here, it will be checked
@@ -89,6 +89,10 @@ Report program bugs here, it will be checked
 - دریافت پس زمینه عکس از سیستم به جای پس زمینه رنگ
 - الگوریتیم جدید جستجو جایگزین و جایگزین کردن همه
 - اماده انتشار است
+- قالب بندی خودکار
+- نمایش ارشیو های zip web tar و استخراج
+- رفع باگ مکان نما
+
 ### Code Testi 
 
 ``` html
